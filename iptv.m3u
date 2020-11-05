@@ -1,0 +1,72 @@
+#EXTM3U
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://onlinekozvetites.com/images/m4-sport-tv-profile-logo-nagy.jpg" tvg-name="M4 Sport HD"  group-title="Hungary",M4 Sport HD
+https://c402-node62-cdn.connectmedia.hu/1004/44129ed0fdd464be8ff4608d8a69f37e/5dd54b2e/02.m3u8
+
+#EXTINF:-1, tvg-id="NationalGeographic.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" tvg-name="National Geographic HD"  group-title="Hungary",National Geographic HD
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeo
+
+#EXTINF:-1, tvg-id="FishingHunting.hu" tvg-logo="http://fishingandhuntingtv.com/hungarian/wp-content/uploads/2014/05/fishing-logo.jpg" tvg-name="Fishing & Hunting"  group-title="Hungary",Fishing & Hunting
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=pvtv
+
+#EXTINF:-1, tvg-id="NatGeoWild.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" tvg-name="National Geographic Wild HD"  group-title="Hungary",National Geographic Wild HD
+https://redirect.onlinestream.live/hbbtv-as.cgi?id=natgeowild
+
+#EXTINF:-1, tvg-id="Aljazeeraenglish.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg" tvg-name="Al Jazeera English [FHD]"  group-title="News",Al Jazeera English [FHD]
+https://players.brightcove.net/665003303001/SkrZHHcl_default/index.html?videoId=5467349513001&usrPersonaAds=0
+
+#EXTINF:-1,Italy: Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
+#EXTINF:-1,Italy: TV2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1, tvg-id="teleroma1.it" tvg-logo="http://www.teleromauno.com/wp-content/uploads/2013/09/teleromauno2-e1378980410322.png" tvg-name="Tele Roma 1"  group-title="Italia",Tele Roma 1
+https://flash2.xdevel.com/teleromauno/teleromauno/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Rai1.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/512px-Rai_1_HD_Logo.svg.png" tvg-name="Rai 1 HD"  group-title="Italia",Rai 1 HD
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8
+
+#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rai_3.png/800px-Rai_3.png" tvg-country="IT" tvg-url="" group-title="",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Rai4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" tvg-name="Rai 4 HD"  group-title="Italia",Rai 4 HD
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/800px-Rai_5_HD_Logo.svg.png" tvg-country="IT" tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz" group-title="",Rai 5 HD
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-id="RaiMovie.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/640px-Rai_Movie_HD_-_Logo_2017.svg.png" tvg-name="Rai Movie HD"  group-title="Italia",Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8?ANTONYGTV
+
+#EXTINF:-1, tvg-id="RaiPremium.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/640px-Rai_Premium_HD_-_Logo_2017.svg.png" tvg-name="Rai Premium  HD"  group-title="Italia",Rai Premium  HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1, tvg-id="RaiNews.it" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/02/rai-new24-logo.jpg" tvg-name="Rai News 24"  group-title="Italia",Rai News 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="" tvg-country="IT" tvg-url="" group-title="News",TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://www.logodesignlove.com/wp-content/uploads/2010/06/cnn-logo-white-on-red.jpg" tvg-name="CNN"  group-title="News",CNN
+https://2203.janjua.pw:8088/adfree/Cnn_pro/playlist.m3u8?id=93698&wowzasessionid=968105715&pk=1c371b1c3d4d2d09bdc2a3025ea450634c8e0b46409dc649e707e9c76141236f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/3pRD6Fx.png" tvg-country="UK" tvg-url="" group-title="",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+
+#EXTINF:-1, tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/MSNBC_logo.png" tvg-name="MSNBC News HD"  group-title="News",MSNBC News HD
+https://2222.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&wowzasessionid=373279444&pk=1c371b1c3d4d2d09bdc2a3025ea450634c8e0b46409dc649e707e9c76141236f
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://images.theabcdn.com/i/28456289/300x300/c" tvg-name="Euronews HD"  group-title="Hungary",Euronews HD
+https://euronews-hu-b9-cdn.hexaglobe.net/0af4762cf8478d542a44ae8b7b8a7c90/5dd55530/euronews/euronews-euronews-website-web-responsive-2/ewnsabrhubkp_hun.smil/ewnsabrhubkp_hun_540p.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/sky-news-live-hd.png" tvg-name="Sky News Live"  group-title="News",Sky News Live
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Spektrum_Home.png/250px-Spektrum_Home.png" tvg-name="Spektrum Home"  group-title="Hungary",Spektrum Home
+http://152.66.115.226:33390/bysid/207
+
+#EXTINF:5, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1024px-AMC_logo_2016.svg.png" tvg-name="AMC"  group-title="Hungary",AMC
+https://streaming.mytvback.com:443/channel514/stream.m3u8
